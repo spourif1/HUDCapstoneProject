@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PCM_arduino-library")(type "KiCad")(uri "${KIPRJMOD}/symbols/arduino-library.kicad_sym")(options "")(descr ""))
+  (lib (name "6871XX182122_687124182122")(type "KiCad")(uri "${KIPRJMOD}/symbols/6871XX182122_687124182122.kicad_sym")(options "")(descr ""))
+  (lib (name "LPS3015-103MRC")(type "KiCad")(uri "${KIPRJMOD}/symbols/LPS3015-103MRC.kicad_sym")(options "")(descr ""))
+)
